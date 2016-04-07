@@ -1,4 +1,5 @@
-# Tile-Watcher
+![alt tag](http://s22.postimg.org/b2w19eudd/Untitled_1.png)
+<br />
 Download and install Node.js from the link below
 
 https://nodejs.org/
