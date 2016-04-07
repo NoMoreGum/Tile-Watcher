@@ -7,13 +7,13 @@ https://nodejs.org/
 
 BASIC COMMAND
 
-parameters:
-x: the path and filter to the file/files you want to rename
-y: the output file extension
-z: the output folder reletive to the file location
+parameters: <br /> <br />
+-x: the path and filter to the file/files you want to rename  <br />
+-y: the output file extension  <br />
+-z: the output folder reletive to the file location
 
 
 gulp -x "path and filter" -y "output extension" -z "output folder"
 
-example:
-gulp -x "D:\UnityProjects\LD\LDGame\Assets\Resources\Levels\*.tmx" -y ".xml" -z "../XML Folder"
+example: <br />
+gulp -x &nbsp;"D:\UnityProjects\LD\LDGame\Assets\Resources\Levels\*.tmx"&nbsp; -y &nbsp;".xml" -z&nbsp; "../XML Folder"
