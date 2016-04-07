@@ -6,6 +6,8 @@ https://nodejs.org/
 
 ----------------------------
 
+Navigate to where you extracted tile watcher and open up Terminal/Command Prompt/Powershell and create one of the commands below
+
 BASIC COMMAND
 
 parameters: <br /> <br />
