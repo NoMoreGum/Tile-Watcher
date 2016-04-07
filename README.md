@@ -16,4 +16,4 @@ parameters: <br /> <br />
 gulp -x "path and filter" -y "output extension" -z "output folder"
 
 example: <br />
-gulp -x &nbsp;"D:\UnityProjects\LD\LDGame\Assets\Resources\Levels\*.tmx"&nbsp; -y &nbsp;".xml" -z&nbsp; "../XML Folder"
+gulp -x &nbsp;"D:\UnityProjects\LD\LDGame\Assets\Resources\Levels\ *.tmx"&nbsp; -y &nbsp;".xml" -z&nbsp; "../XML Folder"
