@@ -16,4 +16,4 @@ z: the output folder reletive to the file location
 gulp -x "path and filter" -y "output extension" -z "output folder"
 
 example:
-gulp -x "D:\UnityProjects\LD\LDGame\Assets\Resources\Levels\*.tmx" -y ".xml" -z ".
+gulp -x "D:\UnityProjects\LD\LDGame\Assets\Resources\Levels\*.tmx" -y ".xml" -z "../XML Folder"
